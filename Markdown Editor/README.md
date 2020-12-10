@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+## How to use this app
 
 **Markdown** is a simple way to format text that looks great on any device. It doesn’t do anything fancy like change the font size, color, or type — just the essentials, using keyboard symbols you already know.
 
