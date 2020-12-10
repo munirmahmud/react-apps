@@ -14,9 +14,7 @@ Each application has its own folder. If you want to run any single app, you have
 2. Install dependencies: `npm install` or `yarn`
 3. Start the React app: `npm start` or `yarn start`
 
-## 10 Apps in Series A
-
-[View 10 React Apps (Series A)](https://makereactapps.com/10-react-apps-series-a)
+## All apps's source code & live demo
 
 1. [Job Filtering - Source Code](https://github.com/munirmahmud/react-apps/tree/master/Job%20Filtering) - [Demo](https://munirmahmud-jobboard.netlify.app/)
 2. [Count Down - Source Code](https://github.com/munirmahmud/react-apps/tree/master/Count%20Down%20App) - [Demo](https://munirmahmud-count-down.netlify.app/)
