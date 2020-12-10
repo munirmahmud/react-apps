@@ -1,31 +1,18 @@
 import React from 'react';
-import { BrowserRouter as Router, NavLink, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import './App.css';
-import Tab from './components/Tab';
+import Header from './components/Header';
+import Routes from './Routes';
 
 const App = () => {
     return (
         <Router>
             <div className="app">
                 <div className="browser">
-                    <div className="tabs">
-                        <Tab><NavLink exact to="/">Home</NavLink></Tab>
-                        <Tab><NavLink to="/about">About</NavLink></Tab>
-                        <Tab><NavLink to="/features">Features</NavLink></Tab>
-                    </div>
+                    <Header />
 
                     <div className="viewport">
-                        <Switch>
-                            <Route exact path="/">
-                                <Home />
-                            </Route>
-                            <Route path="/about">
-                                <About />
-                            </Route>
-                            <Route path="/features">
-                                <Features />
-                            </Route>
-                        </Switch>
+                        <Routes />
                     </div>
                 </div>
             </div>
