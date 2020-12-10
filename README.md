@@ -1,4 +1,4 @@
-# Make React Apps
+# React Application Repository
 
 All of my react applications you'll find in this repo.
 
