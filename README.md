@@ -19,6 +19,7 @@ Each application has its own folder. If you want to run any single app, you have
 1. [Job Filtering - Source Code](https://github.com/munirmahmud/react-apps/tree/master/Job%20Filtering) - [Demo](https://munirmahmud-jobboard.netlify.app/)
 2. [Count Down - Source Code](https://github.com/munirmahmud/react-apps/tree/master/Count%20Down%20App) - [Demo](https://munirmahmud-count-down.netlify.app/)
 2. [Markdown Editor - Source Code](https://github.com/munirmahmud/react-apps/tree/master/Markdown%20Editor) - [Demo](https://munirmahmud-markdown-editor.netlify.app/)
+2. [Highlighted Tabs - Source Code](https://github.com/munirmahmud/react-apps/tree/master/Highlight%20Tabs) - [Demo](https://munirmahmud-highlight-tabs.netlify.app/)
 
 ## Getting Help
 
