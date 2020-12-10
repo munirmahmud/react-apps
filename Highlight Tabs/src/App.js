@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Tab from './Tab';
+import Tab from './components/Tab';
 
 const App = () => {
     
